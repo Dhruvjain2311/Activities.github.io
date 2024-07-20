@@ -2,6 +2,7 @@
 ## MY PORTFOLIO
 
 ### DAY-4
+![alt](3_CERTIFICATE.docs)
 #### DATE:15/07/2024
 
 | SNo. | Resource Person | Discription |
