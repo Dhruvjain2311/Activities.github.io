@@ -4,7 +4,7 @@
 ### DAY-4
 #### DATE:15/07/2024
 
-| SNo. | Resource Person | Discription |yututiy
+| SNo. | Resource Person | Discription |
 |---------- | ----------- |----------|
 | 1. | Dr.Randhir Singh | Sir taught us how to make account on Github and create our own website .He also told us about assessment criteria. |
 | 2. | Dr.Pyare Lal | Sir taught us amny things like never ever give up in your life, learn from your mistakes. He also told to never be in ego, alwayslisten to critics, it's for our benefit only, we should learn from that criticism. He told us that everywhere around us is energy. Positive and negative both are complementry to each other and both are important for us. Similarly in our life HAPPINESS and SADNESS are equally important, there's no fun of happiness without saddness. He also told us to never hesitste to ask, never be hopeless, always try to stay together. We should never break our promise, be there be any circumstance. At the end he finished by saying that **Don't focus on samall barriers in the journey towards to a great successs.** |
