@@ -5,6 +5,14 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 
 
 # Activities Of Induction Programme.
+### DAY-1
+#### DATE:09/07/2024
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
+| 1. | IAS.Harleen Kaur| Mam gave us the words of wisdom and said college plays a very important role in shaping children's life, college teaches us how to deal with different types of people in this world. She also emphasised on the point the apart from our course we should also try to gain some extra knowledge, some extra skills also which will be very helpful in our further life. We really learnt a lot from her address at GNDEC.|
+| 2. | Principal Dr. Sehijpal Singh|Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the campus facilities and benefits. He told us about the mission and achievements of the college. He also gave us a brief about the activities going to be held during induction programme.|
+| 3. | Dr. Amit Kamra| Sir is the professor of IT department. He told us that there is very less difference between IT and CS. He said that they are almost same. He also made us aware about the palcements and wished us very best for our academic session.| 
+
 ### DAY-2
 #### DATE:11/07/2024
 | SNo. | Resource Person | Discription |
@@ -59,4 +67,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 #### DATE:19/07/2024
 | SNo. | Resource Person | Discription |
 |---------- | ----------- |----------|
-| 1. | Er. Kanwardeep Kalra|
+| 1. | Er. Kanwardeep Kalra|Er. Kanwardeep Grewal mam introduces us about **_The Journey from Campus to Corporate_** and **_Building a Future Beyond the Classroom._** She told us that in addition with technical skills, soft skills are also improtant, without soft skills our technical skills are zero. We also saw a role play by our seniors related to interviews that taught us about how to behave during interviews and how to balance our confidence in front of interviewer. She also told ABC of first impression, that is, **APPEARENCE, BEHAVIOUR, COMMUNICATION**. She told us to groom our ourselves and build our NETWORKING.|
+| 2.| Dr. Jaswinder Singh | Sir is the incharge of IAPT. He is a great presonality. He is awarded with **_SHIKSHA RATAN_**. He said that everything in this world is connected with MATHEMATICS. He also gave suitable examples. He also intoduced the concept of induction and conduction. Where in classes these topics seem very tough and boring, he explained them in very easy and interesting way. He also gave us a trick to know learn the number of bones in human body and in each part of our body. Sir also showed the practicals of all the experiments which we read in our books and forget them. He also told us the working behind all those experiments. We had a great session with him.|
+| 3. | English fun activities | Pf. Nisha had a very interesting class with us where we played quiz related to english language, it was all fun. We came to know a lot of things about english language. we really enjoyed it.|
+
+
