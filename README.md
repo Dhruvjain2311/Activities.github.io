@@ -7,9 +7,9 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 # Activities Of Induction Programme.
 ### DAY-1
 #### DATE:09/07/2024
-| SNo. | Resource Person | Discription |
-|---------- | ----------- |----------|
-| 1. | IAS.Harleen Kaur| Mam gave us the words of wisdom and said college plays a very important role in shaping children's life, college teaches us how to deal with different types of people in this world. She also emphasised on the point the apart from our course we should also try to gain some extra knowledge, some extra skills also which will be very helpful in our further life. We really learnt a lot from her address at GNDEC.|
+| SNo. | Resource Person | Discription |Glimpses|
+|---------- | ----------- |----------|-------|
+| 1. | IAS.Harleen Kaur| Mam gave us the words of wisdom and said college plays a very important role in shaping children's life, college teaches us how to deal with different types of people in this world. She also emphasised on the point the apart from our course we should also try to gain some extra knowledge, some extra skills also which will be very helpful in our further life. We really learnt a lot from her address at GNDEC.|![alt]()
 | 2. | Principal Dr. Sehijpal Singh|Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the campus facilities and benefits. He told us about the mission and achievements of the college. He also gave us a brief about the activities going to be held during induction programme.|
 | 3. | Dr. Amit Kamra| Sir is the professor of IT department. He told us that there is very less difference between IT and CS. He said that they are almost same. He also made us aware about the palcements and wished us very best for our academic session.| 
 
