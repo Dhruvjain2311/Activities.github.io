@@ -1,10 +1,27 @@
+# **_MY PORTFOLIO_**
 # Introduction 
-Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering College, Ludhiana. Currently pursuing B.tech in IT. I did my schooling from Green Land Sr. Sec. Public School, Ludhiana. I love to code and learn new things from time to time.I have a good knowledge of PYTHON and basic knowledge of C language.
+Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering College, Ludhiana. Currently pursuing B.tech in IT. I did my schooling from Green Land Sr. Sec. Public School, Ludhiana. I love to code and learn new things from time to time.I have a good knowledge of PYTHON and basic knowledge of C language. I started my journey with GNDEC in 2024 and hope it will be a memorable one and I'll learn a lot of new things.
 ## Thank You
 
 
 # Activities Of Induction Programme.
-## MY PORTFOLIO
+### DAY-2
+#### DATE:11/07/2024
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
+| 1. | Dr. Arvind Dhingra | Sir gave us a detailed information about the different clubs and societies running in our college.he also told us the importance of joining all these clubs, he told that these will help us in grooming our personality and increase our self confidence are we'll be able to interact with a number of people. He also said that change is very important, we should always try to change ourselves and learn from others. He said that,"**Only I can change myself.**"|
+| 2. | Dr. Parminder Singh |Sir gave an overview of the whole college, he told us each and everything of our college like about LIBRARY, LABS, CANTEENS, CLUBS and SOCIETIES, PLAYGROUNDS each and everything. He also told us about different scholarships our college provides. We had a great interaction with him.|
+| 3. | Dr. H.S. Rai | Sir gave us knowledge about the examination system of the college and told us that we should not fear from tests and examinations. He also told us about the achievements of the alumini of GNDEC at NATIONAL as well as INTERNATIONAL level. He also gave us knowledge about how to improve our coding skills as an IT or CS engineers. |
+
+
+
+### DAY-3
+#### DATE:12/07/2024
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
+| 1. | Pf.Nisha |Mam took our UHV class. She taught us about UNIVERSAL HUMAN VALUES. She told us the basic requirements of our aspirations that are HAPPINESS and PROSPERITY. She also told us about the difference between ACCEPTENCE and NATURAL ACCEPTANCE and that for being happy **_RELATIONSHIPS_** are very important. She also told us about the importance of VALUE EDUCATION and SANSKARS in a person's life. Overall, it was a very great class.|
+| 2. | Peer Interaction |In this, our seniors told us about thehidden tools of **_CANVA_** which were very useful. Moreover, we also made posters using that tools. It was very informative class.|
+
 
 ### DAY-4
 #### DATE:15/07/2024
@@ -21,3 +38,10 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 | SNo. | Resource Person | Discription |
 |---------- | ----------- |----------|
 | 1. | Er.Ranjodh Kaur | Madam gave us all the information about our department-**_INFORMATION TECHNOLOGY_**. She told us about the mission and objective of our GNDE College and the achievements of IT department. She also told us about the difference between CSE and IT that there is not a very big difference and both are nearly same apart from a little bit difference in both. She also told us the importance of Extra-curicular activities in our college life. She also gave us information about the IT lab. |
+
+### DAY-6
+#### DATE:17/07/2024
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
+| 1. | Pf. Nisha| Mam took our UHV class. In this class she told us about the co-existence of our soul and human body. She told us how these two are different and co-exist. She also told that needs os these two are different, that of body the needs are temporary and of soul the needs are long term.|
+| 2. | Peer Interaction| In this our seniors took our class and gave us knowledge about the subjects of our college and how the grading system works. They also told us about the different websites of GNDEC and it's departments.|
