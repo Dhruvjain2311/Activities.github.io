@@ -45,3 +45,18 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 |---------- | ----------- |----------|
 | 1. | Pf. Nisha| Mam took our UHV class. In this class she told us about the co-existence of our soul and human body. She told us how these two are different and co-exist. She also told that needs os these two are different, that of body the needs are temporary and of soul the needs are long term.|
 | 2. | Peer Interaction| In this our seniors took our class and gave us knowledge about the subjects of our college and how the grading system works. They also told us about the different websites of GNDEC and it's departments.|
+
+### DAY-7
+#### DATE:18/07/2024
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
+| 1. | Pf. Harapl Singh Pannu| Sir gave us many life skills using the examples from **_Shri Guru Nanak Dev Ji's_** stories. He also shared many learnings which he learnt in his life. He also shared many stories of his school, college and his teachers. He also told that we should read more and more books as these are full of knowledge, make friends with books. His interaction with us was very interesting as we got many things to learn and know about SHRI GURU NANAK DEV JI.|
+| 2. | Pf. Nisha |Mam told us about **_understanding harmony in society_** in our UHV class. She said that we should have good relations with others for harmony in our family and society. She told us that with Right Understanding in society we can gat **_Family's prosperity, Fearlessness in society and Co-existence in nature._**  |
+| 3. | Dr. Harwinder Singh | Sir is the ANO of NCC. He told us many important things about NCC and he also gave us the requirements and benefits of joining the NCC. He told that NCC helps us make our life full of discipline, we can interact with the army officers which is very beneficial in our character building, helps in increasing leadership qualities, building confidence and many more things. He said that we should always keep our body fit as, "Sound mind lives in a fit body." |
+| 4. | Er. Jaswinder Singh Grewal | Sir is the co-ordinator of NSS- National Service Scheme. He told us many benefits of joining NSS as we get a chance to help our society in many ways. He told us that recently they did a Plantation Drive to improve the Air Quality Index (AQI) of Ludhiana. He told that they also go to slum areas and help poor people which will help us to know difficulties that they people feel. He also told that members of NSS also get preference in Admission as well as Employment also.|
+
+### DAY-8
+#### DATE:19/07/2024
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
+| 1. | Er. Kanwardeep Kalra|
