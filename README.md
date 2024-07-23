@@ -78,4 +78,12 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 | 2.| Dr. Jaswinder Singh | Sir is the incharge of IAPT. He is a great presonality. He is awarded with **_SHIKSHA RATAN_**. He said that everything in this world is connected with MATHEMATICS. He also gave suitable examples. He also intoduced the concept of induction and conduction. Where in classes these topics seem very tough and boring, he explained them in very easy and interesting way. He also gave us a trick to know learn the number of bones in human body and in each part of our body. Sir also showed the practicals of all the experiments which we read in our books and forget them. He also told us the working behind all those experiments. We had a great session with him.|
 | 3. | English fun activities | Pf. Nisha had a very interesting class with us where we played quiz related to english language, it was all fun. We came to know a lot of things about english language. we really enjoyed it.|
 
+### DAY-9
+#### DATE:22/07/2024
 
+| SNo. | Resource Person | Discription |Glimpses|
+|----------|-----------|----------|-------|
+| 1. | Dr. S.B.Singh | Sir did a very interesting activity to remind all of us our dream, our motive. He made us write different things on the paper and asked us to keep all the things in mind which we wrote on paper. He also told us to believe on GOD than on the SMART PHONES, which we usually don't do. Sir strongly emphasised on reducing our dependency on phones.|
+| 2. | Dr. Pushpinder Singh| Sir told us to recognise our learning type and study accordingly. He also taught us many things like from story of HARE and TORTOISE, he told us that if we are ahead of all we should not be distracted or take a break from our work, otherwise we will lack behind, he also said that we should help each other and move foreward together.|
+| 3. | Mr. Prasad Vaidya | Sir told us about SDI- Solar Decathlon India. It is a challenge which mainly focuses on sustainable architecture of buildings. Sir told us various ways to make construction sustainable.|
+| 4. | Dr. Sangeeta Kapoor | Mam is a social entreprenuer, she works for sustainable development. She makes people aware about the harm we are causing to **_our HOME, our EARTH._** She raised this issue infront of us and made us aware in a very interactive and interesting way.We really gained the information which we didn't knew, from her address today.|
