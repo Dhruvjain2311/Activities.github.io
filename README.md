@@ -4,7 +4,7 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ## Thank You
 ## My Excel Course Experience
 
-![ ](https://github.com/Dhruvjain2311/ActivitiesOfInduction.github.io/blob/main/20240722_173047.jpg)
+![](https://github.com/Dhruvjain2311/ActivitiesOfInduction.github.io/blob/main/20240722_173047.jpg)
 
 
 # Activities Of Induction Programme.
