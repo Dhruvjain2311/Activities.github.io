@@ -95,3 +95,12 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 |----------|-----------|----------|-------|
 | 1. | Peer Interaction | Our seniors told us about how to use college website as students. They also told us different things about college. They also told us about different clubs running in our college.|
 | 2. | English Class |The teacher taught us English language, and enhanced our vocabulary by telling us english words ehich we didn't knew earlier. It was a very interesting class.|
+
+### DAY-11
+#### DATE:24/07/2024
+
+| SNo. | Resource Person | Discription |Glimpses|
+|----------|-----------|----------|-------|
+| 1.| Mr. Gauravdeep Singh | Sir is a social entreprenuer, and runs **_INITIATORS OF CHANGE_** chain. This is a NGO, which helps poor children in their education. Sir told us his life story that how things autometically got in place and today he is helping other people and contributing to the society. He told us taht never doubt yourself, you have all energy of universe, you just have to realise this thing.|
+| 2. | Er. Lakhveer Singh | Sir gave us information about SWAYAM portal, that how we can do free of courses provided by GOVT. OF INDIA to enhance our skills. Sir also helped us in making our profile at NPTEL and SWAYAM portal.|
+| 3. | CAUSMIC CLUB | Members of causmic club made us understood the functioning of causmic club, the various events organised by this club in our college. They also encouraged all of us to join this club and help in the organisation of various events going to be held in near future.| 
