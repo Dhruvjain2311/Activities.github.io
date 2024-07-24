@@ -3,7 +3,7 @@
 Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering College, Ludhiana. Currently pursuing B.tech in IT. I did my schooling from Green Land Sr. Sec. Public School, Ludhiana. I love to code and learn new things from time to time.I have a good knowledge of PYTHON and basic knowledge of C language. I started my journey with GNDEC in 2024 and hope it will be a memorable one and I'll learn a lot of new things.
 ## Thank You
 ## My Excel Course Experience
-![image](https://github.com/Dhruvjain2311/ActivitiesOfInduction.github.io/blob/main/20240722_173047.jpg)
+![image](20240722_173047.jpg)
 # Activities Of Induction Programme.
 ### DAY-1
 #### DATE:09/07/2024
