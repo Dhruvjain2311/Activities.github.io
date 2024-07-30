@@ -114,8 +114,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 |2.| UHV | We interacted with our teacher in our UHV class. We do had a group discussion about what we learnt in previous UHV classes. We also had discussions on general human values.|
 |3.| Maths Test| We took maths test to check our mathematical skills before the commencement of our academic session.|
 
-### DAY-12
-#### DATE:25/07/2024
+### DAY-13
+#### DATE:26/07/2024
 
 | SNo. | Resource Person | Discription |Glimpses|
 |----------|-----------|----------|-------|
