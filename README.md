@@ -104,3 +104,12 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 | 1.| Mr. Gauravdeep Singh | Sir is a social entreprenuer, and runs **_INITIATORS OF CHANGE_** chain. This is a NGO, which helps poor children in their education. Sir told us his life story that how things autometically got in place and today he is helping other people and contributing to the society. He told us taht never doubt yourself, you have all energy of universe, you just have to realise this thing.|
 | 2. | Er. Lakhveer Singh | Sir gave us information about SWAYAM portal, that how we can do free of courses provided by GOVT. OF INDIA to enhance our skills. Sir also helped us in making our profile at NPTEL and SWAYAM portal.|
 | 3. | CAUSMIC CLUB | Members of causmic club made us understood the functioning of causmic club, the various events organised by this club in our college. They also encouraged all of us to join this club and help in the organisation of various events going to be held in near future.| 
+
+### DAY-12
+#### DATE:25/07/2024
+
+| SNo. | Resource Person | Discription |Glimpses|
+|----------|-----------|----------|-------|
+|1.| Chemistry Class |In our Chemistry Class, the teacher told us about the curriculum of Chemistry for first semester. She also told us about the marking scheme. We also discussed about how and where we see chemistry in our day to day life.|
+|2.| UHV | We interacted with our teacher in our UHV class. We do had a group discussion about what we learnt in previous UHV classes. We also had discussions on general human values.|
+|3.| Maths Test| We took maths test to check our mathematical skills before the commencement of our academic session.|
