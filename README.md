@@ -113,3 +113,11 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 |1.| Chemistry Class |In our Chemistry Class, the teacher told us about the curriculum of Chemistry for first semester. She also told us about the marking scheme. We also discussed about how and where we see chemistry in our day to day life.|
 |2.| UHV | We interacted with our teacher in our UHV class. We do had a group discussion about what we learnt in previous UHV classes. We also had discussions on general human values.|
 |3.| Maths Test| We took maths test to check our mathematical skills before the commencement of our academic session.|
+
+### DAY-12
+#### DATE:25/07/2024
+
+| SNo. | Resource Person | Discription |Glimpses|
+|----------|-----------|----------|-------|
+|1.|Dr. Kamaalpreet K Bhatt| Mam took our session in a very joyful way. She told us many things and benefits about meditation. She told us that how we can heal ourselves with the help of meditation. She also told us the right way to meditate. We learnt a lot from Mam. |
+|2.| Valedictory Ceremony | Our wonderful induction programme moved towards end with a great valedictory ceramony in which our peers performed on the stage and entertained us. All the performers were very good and did an incredible stage work. With this we mark the end of our induction programme.|
