@@ -17,8 +17,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-2
 #### DATE:11/07/2024
 
-| SNo. | Resource Person | Discription | Glimpses |
-|---------- | ----------- |----------|---------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Dr. Arvind Dhingra | Sir gave us a detailed information about the different clubs and societies running in our college.he also told us the importance of joining all these clubs, he told that these will help us in grooming our personality and increase our self confidence are we'll be able to interact with a number of people. He also said that change is very important, we should always try to change ourselves and learn from others. He said that,"**Only I can change myself.**"|
 | 2. | Dr. Parminder Singh |Sir gave an overview of the whole college, he told us each and everything of our college like about LIBRARY, LABS, CANTEENS, CLUBS and SOCIETIES, PLAYGROUNDS each and everything. He also told us about different scholarships our college provides. We had a great interaction with him.|
 | 3. | Dr. H.S. Rai | Sir gave us knowledge about the examination system of the college and told us that we should not fear from tests and examinations. He also told us about the achievements of the alumini of GNDEC at NATIONAL as well as INTERNATIONAL level. He also gave us knowledge about how to improve our coding skills as an IT or CS engineers. |
@@ -28,8 +28,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-3
 #### DATE:12/07/2024
 
-| SNo. | Resource Person | Discription | Glimpses |
-|---------- | ----------- |----------|---------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Pf.Nisha |Mam took our UHV class. She taught us about UNIVERSAL HUMAN VALUES. She told us the basic requirements of our aspirations that are HAPPINESS and PROSPERITY. She also told us about the difference between ACCEPTENCE and NATURAL ACCEPTANCE and that for being happy **_RELATIONSHIPS_** are very important. She also told us about the importance of VALUE EDUCATION and SANSKARS in a person's life. Overall, it was a very great class.|
 | 2. | Peer Interaction |In this, our seniors told us about thehidden tools of **_CANVA_** which were very useful. Moreover, we also made posters using that tools. It was very informative class.|
 
@@ -37,8 +37,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-4
 #### DATE:15/07/2024
 
-| SNo. | Resource Person | Discription | Glimpses |
-|---------- | ----------- |----------|------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Dr.Randhir Singh | Sir taught us how to make account on Github and create our own website .He also told us about assessment criteria. |
 | 2. | Dr.Pyare Lal | Sir taught us amny things like never ever give up in your life, learn from your mistakes. He also told to never be in ego, alwayslisten to critics, it's for our benefit only, we should learn from that criticism. He told us that everywhere around us is energy. Positive and negative both are complementry to each other and both are important for us. Similarly in our life HAPPINESS and SADNESS are equally important, there's no fun of happiness without saddness. He also told us to never hesitste to ask, never be hopeless, always try to stay together. We should never break our promise, be there be any circumstance. At the end he finished by saying that **Don't focus on samall barriers in the journey towards to a great successs.** |
 |3.| Mr.Sony Goyal | Sir did a session with us names-**_1,2 KA 4_**. He had a very cheerful session with all of us. He started with the thing that success dosen't see our physical appearence or the background from where we come, it only see the ability and power in us to achieve a particular thing. He told us a thing that **Love the thing you do and Do the thing you love.** He said that always give 100% towards the task or thing which you are doing. He also told us that we should make the habbit of asking questions. He explained the thing with the help of an example of Isaac Newton, that we all knew that apple always falls downwards from tree but anyone at that time never quotioned but newton did, and today we all see that how important that quotion was. Similarly, sir gave us example of many scientists who had habbit to question and became successful. He told us meaning of LIFE of 4 years of college or couuld be implement on our life also. It is: **_Learn, Inquire, Future, Explore_**,which means that always be eager to learn, always inquire, think about the future and have the habbit of exploring new things everyday.|
@@ -47,23 +47,23 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-5
 #### 16/07/2024
 
-| SNo. | Resource Person | Discription | Glimpses |
-|---------- | ----------- |----------|---------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Er.Ranjodh Kaur | Madam gave us all the information about our department-**_INFORMATION TECHNOLOGY_**. She told us about the mission and objective of our GNDE College and the achievements of IT department. She also told us about the difference between CSE and IT that there is not a very big difference and both are nearly same apart from a little bit difference in both. She also told us the importance of Extra-curicular activities in our college life. She also gave us information about the IT lab. |
 
 ### DAY-6
 #### DATE:17/07/2024
 
-| SNo. | Resource Person | Discription | Glimpses|
-|---------- | ----------- |----------|--------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Pf. Nisha| Mam took our UHV class. In this class she told us about the co-existence of our soul and human body. She told us how these two are different and co-exist. She also told that needs os these two are different, that of body the needs are temporary and of soul the needs are long term.|
 | 2. | Peer Interaction| In this our seniors took our class and gave us knowledge about the subjects of our college and how the grading system works. They also told us about the different websites of GNDEC and it's departments.|
 
 ### DAY-7
 #### DATE:18/07/2024
 
-| SNo. | Resource Person | Discription | Glimpses|
-|---------- | ----------- |----------|-------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Pf. Harapl Singh Pannu| Sir gave us many life skills using the examples from **_Shri Guru Nanak Dev Ji's_** stories. He also shared many learnings which he learnt in his life. He also shared many stories of his school, college and his teachers. He also told that we should read more and more books as these are full of knowledge, make friends with books. His interaction with us was very interesting as we got many things to learn and know about SHRI GURU NANAK DEV JI.|
 | 2. | Pf. Nisha |Mam told us about **_understanding harmony in society_** in our UHV class. She said that we should have good relations with others for harmony in our family and society. She told us that with Right Understanding in society we can gat **_Family's prosperity, Fearlessness in society and Co-existence in nature._**  |
 | 3. | Dr. Harwinder Singh | Sir is the ANO of NCC. He told us many important things about NCC and he also gave us the requirements and benefits of joining the NCC. He told that NCC helps us make our life full of discipline, we can interact with the army officers which is very beneficial in our character building, helps in increasing leadership qualities, building confidence and many more things. He said that we should always keep our body fit as, "Sound mind lives in a fit body." |
@@ -72,8 +72,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-8
 #### DATE:19/07/2024
 
-| SNo. | Resource Person | Discription |Glimpses|
-|---------- | ----------- |----------|--------|
+| SNo. | Resource Person | Discription |
+|---------- | ----------- |----------|
 | 1. | Er. Kanwardeep Kalra|Er. Kanwardeep Grewal mam introduces us about **_The Journey from Campus to Corporate_** and **_Building a Future Beyond the Classroom._** She told us that in addition with technical skills, soft skills are also improtant, without soft skills our technical skills are zero. We also saw a role play by our seniors related to interviews that taught us about how to behave during interviews and how to balance our confidence in front of interviewer. She also told ABC of first impression, that is, **APPEARENCE, BEHAVIOUR, COMMUNICATION**. She told us to groom our ourselves and build our NETWORKING.|
 | 2.| Dr. Jaswinder Singh | Sir is the incharge of IAPT. He is a great presonality. He is awarded with **_SHIKSHA RATAN_**. He said that everything in this world is connected with MATHEMATICS. He also gave suitable examples. He also intoduced the concept of induction and conduction. Where in classes these topics seem very tough and boring, he explained them in very easy and interesting way. He also gave us a trick to know learn the number of bones in human body and in each part of our body. Sir also showed the practicals of all the experiments which we read in our books and forget them. He also told us the working behind all those experiments. We had a great session with him.|
 | 3. | English fun activities | Pf. Nisha had a very interesting class with us where we played quiz related to english language, it was all fun. We came to know a lot of things about english language. we really enjoyed it.|
@@ -81,8 +81,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-9
 #### DATE:22/07/2024
 
-| SNo. | Resource Person | Discription |Glimpses|
-|----------|-----------|----------|-------|
+| SNo. | Resource Person | Discription |
+|----------|-----------|----------|
 | 1. | Dr. S.B.Singh | Sir did a very interesting activity to remind all of us our dream, our motive. He made us write different things on the paper and asked us to keep all the things in mind which we wrote on paper. He also told us to believe on GOD than on the SMART PHONES, which we usually don't do. Sir strongly emphasised on reducing our dependency on phones.|
 | 2. | Dr. Pushpinder Singh| Sir told us to recognise our learning type and study accordingly. He also taught us many things like from story of HARE and TORTOISE, he told us that if we are ahead of all we should not be distracted or take a break from our work, otherwise we will lack behind, he also said that we should help each other and move foreward together.|
 | 3. | Mr. Prasad Vaidya | Sir told us about SDI- Solar Decathlon India. It is a challenge which mainly focuses on sustainable architecture of buildings. Sir told us various ways to make construction sustainable.|
@@ -91,16 +91,16 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-10
 #### DATE:23/07/2024
 
-| SNo. | Resource Person | Discription |Glimpses|
-|----------|-----------|----------|-------|
+| SNo. | Resource Person | Discription |
+|----------|-----------|----------|
 | 1. | Peer Interaction | Our seniors told us about how to use college website as students. They also told us different things about college. They also told us about different clubs running in our college.|
 | 2. | English Class |The teacher taught us English language, and enhanced our vocabulary by telling us english words ehich we didn't knew earlier. It was a very interesting class.|
 
 ### DAY-11
 #### DATE:24/07/2024
 
-| SNo. | Resource Person | Discription |Glimpses|
-|----------|-----------|----------|-------|
+| SNo. | Resource Person | Discription |
+|----------|-----------|----------|
 | 1.| Mr. Gauravdeep Singh | Sir is a social entreprenuer, and runs **_INITIATORS OF CHANGE_** chain. This is a NGO, which helps poor children in their education. Sir told us his life story that how things autometically got in place and today he is helping other people and contributing to the society. He told us taht never doubt yourself, you have all energy of universe, you just have to realise this thing.|
 | 2. | Er. Lakhveer Singh | Sir gave us information about SWAYAM portal, that how we can do free of courses provided by GOVT. OF INDIA to enhance our skills. Sir also helped us in making our profile at NPTEL and SWAYAM portal.|
 | 3. | CAUSMIC CLUB | Members of causmic club made us understood the functioning of causmic club, the various events organised by this club in our college. They also encouraged all of us to join this club and help in the organisation of various events going to be held in near future.| 
@@ -108,8 +108,8 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-12
 #### DATE:25/07/2024
 
-| SNo. | Resource Person | Discription |Glimpses|
-|----------|-----------|----------|-------|
+| SNo. | Resource Person | Discription |
+|----------|-----------|----------|
 |1.| Chemistry Class |In our Chemistry Class, the teacher told us about the curriculum of Chemistry for first semester. She also told us about the marking scheme. We also discussed about how and where we see chemistry in our day to day life.|
 |2.| UHV | We interacted with our teacher in our UHV class. We do had a group discussion about what we learnt in previous UHV classes. We also had discussions on general human values.|
 |3.| Maths Test| We took maths test to check our mathematical skills before the commencement of our academic session.|
@@ -117,7 +117,7 @@ Hello everyone, myself Dhruv Jain a student of Guru Nanak Dev Engineering Colleg
 ### DAY-13
 #### DATE:26/07/2024
 
-| SNo. | Resource Person | Discription |Glimpses|
-|----------|-----------|----------|-------|
+| SNo. | Resource Person | Discription |
+|----------|-----------|----------|
 |1.|Dr. Kamaalpreet K Bhatt| Mam took our session in a very joyful way. She told us many things and benefits about meditation. She told us that how we can heal ourselves with the help of meditation. She also told us the right way to meditate. We learnt a lot from Mam. |
 |2.| Valedictory Ceremony | Our wonderful induction programme moved towards end with a great valedictory ceramony in which our peers performed on the stage and entertained us. All the performers were very good and did an incredible stage work. With this we mark the end of our induction programme.|
